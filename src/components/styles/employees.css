@@ -1,0 +1,15 @@
+.thead {
+background-color: #376092 !important;
+}
+
+.table>thead{
+    background-color: #376092 !important;
+}
+.table-dark{
+    --bs-table-bg:#376092 !important; 
+    --bs-table-border-color:#376092 !important;
+}
+.bdr{
+    border-radius: 10px !important;
+    overflow: hidden;
+}

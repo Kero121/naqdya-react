@@ -1,0 +1,16 @@
+.aside{
+   
+    width: 17vw;
+    position: fixed;
+    left: 0;
+    background-color: #376092;
+    color: white;
+    font-size: 20px;
+    min-height: 100vh;
+    
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: white !important;
+    color: black !important;
+}
